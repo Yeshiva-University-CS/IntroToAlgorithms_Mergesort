@@ -1,4 +1,4 @@
-package edu.yc.oats.algs;
+package edu.yu.introtoalgs;
 
 import java.util.Arrays;
 

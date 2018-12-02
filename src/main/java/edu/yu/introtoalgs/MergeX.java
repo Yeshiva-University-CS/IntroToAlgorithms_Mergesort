@@ -1,4 +1,4 @@
-package edu.yc.oats.algs;
+package edu.yu.introtoalgs;
 
 public class MergeX implements Mergesorter {
 

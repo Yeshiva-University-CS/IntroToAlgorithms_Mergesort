@@ -3,7 +3,7 @@
  * @author Avraham Leff
  */
 
-package edu.yc.oats.algs;
+package edu.yu.introtoalgs;
 
 public interface Mergesorter {
 

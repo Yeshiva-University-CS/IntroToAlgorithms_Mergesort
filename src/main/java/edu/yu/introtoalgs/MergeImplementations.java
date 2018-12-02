@@ -1,4 +1,4 @@
-package edu.yc.oats.algs;
+package edu.yu.introtoalgs;
 
 /** Enum defines set of classes that implement the Mergesorter interface
  *
